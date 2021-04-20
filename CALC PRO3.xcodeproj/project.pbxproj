@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2084B2031AF0F653004C388F /* CALC.c.bak in Sources */ = {isa = PBXBuildFile; fileRef = 2084B2021AF0F653004C388F /* CALC.c.bak */; };
 		209FDFAE1AE12AFA0021D270 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 209FDFAD1AE12AFA0021D270 /* main.c */; };
 /* End PBXBuildFile section */
 
@@ -23,6 +24,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		2084B2021AF0F653004C388F /* CALC.c.bak */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = CALC.c.bak; path = ../../../../Desktop/CALC.c.bak; sourceTree = "<group>"; };
 		209FDFAA1AE12AFA0021D270 /* CALC PRO3 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "CALC PRO3"; sourceTree = BUILT_PRODUCTS_DIR; };
 		209FDFAD1AE12AFA0021D270 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				209FDFAD1AE12AFA0021D270 /* main.c */,
+				2084B2021AF0F653004C388F /* CALC.c.bak */,
 			);
 			path = "CALC PRO3";
 			sourceTree = "<group>";
@@ -118,6 +121,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2084B2031AF0F653004C388F /* CALC.c.bak in Sources */,
 				209FDFAE1AE12AFA0021D270 /* main.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -235,6 +239,7 @@
 				209FDFB31AE12AFA0021D270 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
